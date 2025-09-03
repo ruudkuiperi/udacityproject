@@ -10,8 +10,12 @@ This is the RCKuiperi Bikeshare project.
 This project is created to analyze bikeshare data for three major US-cities, as part of the Udacity data track.
 
 ### Files used
-Include the files used
+Files used in this project are:
+- bikeshare.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Many thanks to Udacity for providing this project.
 
